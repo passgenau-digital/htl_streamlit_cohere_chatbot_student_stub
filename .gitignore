@@ -1,0 +1,14 @@
+.DS_Store
+.venv*/
+.vscode
+.env
+.streamlit
+src/.streamlit
+src/__pycache__
+src/.pytest_cache
+src/rag/__pycache__
+src/tests/__pycache__
+__pycache__
+.pytest_cache
+reveal.js
+
